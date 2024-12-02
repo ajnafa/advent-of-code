@@ -1,7 +1,7 @@
 from polars import from_records, Int64, col
 
 # Read in the puzzle input
-with open("2024/12-01/input.txt") as f:
+with open("2024/2024-12-01/input.txt") as f:
     input = f.read().splitlines()
 
 ## Day 1: Historian Hysteria - Part 1
